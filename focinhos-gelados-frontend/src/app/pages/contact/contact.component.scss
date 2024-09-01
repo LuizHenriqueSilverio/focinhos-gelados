@@ -48,6 +48,13 @@
         color: $primary-text;
         margin: 10px 0;
       }
+
+      a {
+        font-size: 20px;
+        color: $primary-text;
+        margin: 10px 0;
+        text-decoration: underline;
+      }
     }
   }
 }
